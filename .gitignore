@@ -1,0 +1,22 @@
+# pcache
+*/__pycache__
+
+# VS Code configs
+*/.vscode
+
+# datasets
+Delta-Detectron2/datasets/
+Delta-Detectron2/CamVid/
+Delta-Detectron2/MVI_39051/
+Delta_U-Net/test_data/
+
+# Not used folders
+Video Segmentation/
+Samsung Documents/
+
+# python virtual environment
+TTNet-Real-time-Analysis-System-for-Table-Tennis-Pytorch/venv/
+Skip-Conv/skipconv/
+HRNet/hrnet/
+Delta-Detectron2/deltacnn/
+Delta_U-Net/dunet/
